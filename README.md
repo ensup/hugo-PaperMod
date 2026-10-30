@@ -1,5 +1,5 @@
 # hugo-paperMod Example
-
+[![Deploy Hugo PaperMod Demo to Pages](https://github.com/ensup/hugo-PaperMod/actions/workflows/gh-pages.yml/badge.svg?branch=deploy)](https://github.com/ensup/hugo-PaperMod/actions/workflows/gh-pages.yml)
 BOOM! Go Go Go !!!
 </br>
 This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
