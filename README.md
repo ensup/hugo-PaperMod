@@ -1,6 +1,6 @@
 # hugo-paperMod Example
 
-Go Go Go !!!
+BOOM! Go Go Go !!!
 </br>
 This repository offers an example site for [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
